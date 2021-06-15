@@ -1,4 +1,4 @@
 # FREECELL - project
 ##### This project is for learning purposes
 First of all this game is a cards game
-![](https://www.pgm-team.tk/static/media/5211713.dc76449c.png)
+![](https://drive.google.com/file/d/1HNSzbWXRFNL7jJP5GZGN4fsBl2HbOtrW/view?usp=sharing)
