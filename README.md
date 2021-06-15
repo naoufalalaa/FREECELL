@@ -24,4 +24,6 @@ Then to run the game :
 ./FREECELL
 `````
 ### Initial state
+![](https://i.ibb.co/ZGs4BXT/Screenshot-from-2021-06-15-01-18-53.png)
+### Gameplay
 ![](https://i.ibb.co/d5sTY4Z/Screenshot-from-2021-06-15-01-57-17.png)
